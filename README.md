@@ -25,6 +25,10 @@ Security and Privacy Controls for Information Systems and Organizations - https:
 
 
 ## Ted Talks
+Unveiling Cybersecurity: A Journey of Questions and Resilience - William Mendez - (TEDxColumbusHS - April 15, 2024) - https://www.youtube.com/watch?v=nugv9I4kjdU
+
+Eat, Sleep, Cyber Security, Repeat - Koen Maris (TEDxLuxembourgCity - January 9th, 2024) - https://www.youtube.com/watch?v=m4NJxCujdQ8
+
 Why You Need to Think Like a Hacker – Ted Harrington - (TEDxFrankfurt - January 23rd, 2023) - https://www.youtube.com/watch?v=iMwHFBebLYY
 
 Why Not Just Get Rid of The Dark Web? – Aaron Warner – (TEDxDavenport – November 15, 2022) - https://www.youtube.com/watch?v=9r4v9_Eek1U
